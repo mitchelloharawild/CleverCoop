@@ -8,5 +8,5 @@ The components are designed to be laser cut from small sheets of material with m
 ## Components:
 
 * [Coop Door (required)](door): The command center of the clever coop - and also an automatic door.
-* [Nest scale](scale): weigh and identify your chickens as they lay eggs.
+* [Nest scale](nest): weigh and identify your chickens as they lay eggs.
 * More to come.
